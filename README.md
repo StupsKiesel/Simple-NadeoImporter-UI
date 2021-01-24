@@ -3,7 +3,7 @@
 ## Console UI for NadeoImporter.exe (TrackMania2020)
 ![NadeoImporterUI](https://i.gyazo.com/189c16a99f82e26864c53a2380e11c6e.png)
 
-**Atention! Useage of this tool on your risk.**
+**Atention! Useage of this tool on your risk. Win10 ONLY**
 
 **Installation:**
 Download ONLY the NadeoImporterUI.exe
